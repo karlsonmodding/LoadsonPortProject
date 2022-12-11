@@ -13,9 +13,6 @@ Port most of the mods here (even closed-source) to Loadson
 - [ ] ~~[MangLevelLoader](https://github.com/karlsonmodding/MangLevelLoader)~~ (replaced by KarlsonCustomLevels)
 
 ## How to compile a mod
-1. Run ModBuilder.exe
-2. Select your Karlson install
-3. Exit ModBuilder.exe **DON'T ENTER MOD NAME**
-4. Open `LoadsonMod.sln` in visual studio
-5. If the mod doesn't build, download [0Harmony.dll](https://github.com/karlsonmodding/Loadson/raw/deployment/files/Internal/Loadson%20deps/0Harmony.dll) and place it in the `lib` folder
-6. Build.
+1. Extract the lib.zip archive found in Release into a folder named `lib` (in the solution root, not repo root)
+1. Open `LoadsonMod.sln` in visual studio
+1. Build.
