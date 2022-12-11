@@ -1,0 +1,4 @@
+displayname=Input Display [LPP]
+author=NeonGamer (devilExE)
+description=This mod is part of the\n> Loadson Port Project\n<b>----------------------------------</b>\nShow input overlay
+deps=

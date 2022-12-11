@@ -1,0 +1,4 @@
+displayname=Enemy Counter [LPP]
+author=NeonGamer (devilExE)
+description=This mod is part of the\n> Loadson Port Project\n<b>----------------------------------</b>\nShow enemies alive left below the timer
+deps=

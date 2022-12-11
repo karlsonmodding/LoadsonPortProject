@@ -1,0 +1,4 @@
+displayname=Retry Key [LPP]
+author=IsThatTheRealNick (devilExE)
+description=This mod is part of the\n> Loadson Port Project\n<b>----------------------------------</b>\nPress <b>[R]</b> to retry level
+deps=

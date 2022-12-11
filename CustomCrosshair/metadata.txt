@@ -1,0 +1,4 @@
+displayname=Custom Crosshair [LPP]
+author=IsThatTheRealNick (devilExE)
+description=This mod is part of the\n> Loadson Port Project\n<b>----------------------------------</b>\nChange the default crosshair
+deps=

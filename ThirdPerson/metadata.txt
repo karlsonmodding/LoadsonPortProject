@@ -1,0 +1,4 @@
+displayname=Third Person [LPP]
+author=Xiloe (devilExE)
+description=This mod is part of the\n> Loadson Port Project\n<b>----------------------------------</b>\nGo in third person and see your hitbox.\nPress <b>[M]</b> to toggle third person
+deps=
