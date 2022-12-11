@@ -1,0 +1,4 @@
+displayname=KarlsonTAS
+author=Mang (devilExE)
+description=This mod is part of the\n> Loadson Port Project\n<b>----------------------------------</b>\nA TAS (Tool Assisted Speedrun) Mod for the Itch.io release of Karlson
+deps=
